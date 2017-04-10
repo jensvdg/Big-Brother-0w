@@ -1,0 +1,1 @@
+cmd_/home/pi/nexmon/patches/bcm43438/7_45_41_26/nexmon/brcmfmac/brcmfmac.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/pi/nexmon/patches/bcm43438/7_45_41_26/nexmon/brcmfmac/brcmfmac.ko /home/pi/nexmon/patches/bcm43438/7_45_41_26/nexmon/brcmfmac/brcmfmac.o /home/pi/nexmon/patches/bcm43438/7_45_41_26/nexmon/brcmfmac/brcmfmac.mod.o
