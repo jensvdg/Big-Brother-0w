@@ -1,5 +1,4 @@
 #!/bin/bash
-sleep 10 
 cd /home/pi/Big-Brother-0w/wlan0-driver/ 
 ./install_driver.sh 
 cd /home/pi/Big-Brother-0w/scripts
