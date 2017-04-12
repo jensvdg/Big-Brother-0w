@@ -1,6 +1,7 @@
 import urllib
 import urllib2
 import socket
+import os.path
 
 if os.path.exists('/home/pi/probereqs.log'):
     with open('/home/pi/probereqs.log') as f:
